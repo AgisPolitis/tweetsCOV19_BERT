@@ -1,0 +1,12 @@
+numpy
+pandas
+torch
+scikit-learn
+emoji
+tweet-preprocessor
+nltk
+contractions
+transformers
+datasets
+evaluate
+accelerate
